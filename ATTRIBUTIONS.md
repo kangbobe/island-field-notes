@@ -87,3 +87,16 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 
 道路路线：OSRM（https://project-osrm.org/）使用OpenStreetMap数据（https://www.openstreetmap.org/copyright），ODbL。仅在用户主动查询某一对公共地点时调用公共服务，显示来源和“修正地图”链接；无实时交通，不批量请求，不打包离线道路数据。直线距离按球面大圆距离计算，非行驶或航行里程。
+
+
+## 巴厘岛扩展模块实景照片
+
+以下照片下载后缩放、JPEG压缩并可能在页面裁切，保留各自许可；非AI生成、非实时实况。
+
+- Campuhan Ridge Walk, Ubud, Bali (15003876558).jpg — Fabio Achilli from Milano, Italy — [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) — [原图](https://commons.wikimedia.org/wiki/File:Campuhan_Ridge_Walk,_Ubud,_Bali_(15003876558).jpg)
+- Tegallalang Rice Terraces Bali 1.jpg — Philip Nalangan — [CC BY 4.0](https://creativecommons.org/licenses/by/4.0) — [原图](https://commons.wikimedia.org/wiki/File:Tegallalang_Rice_Terraces_Bali_1.jpg)
+- Pura Tirta Empul, Ubud, Bali, Indonesia.JPG — Saranabhi — [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) — [原图](https://commons.wikimedia.org/wiki/File:Pura_Tirta_Empul,_Ubud,_Bali,_Indonesia.JPG)
+- Kuta Bali Indonesia Pura-Luhur-Uluwatu-04.jpg — CEphoto, Uwe Aranas — [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) — [原图](https://commons.wikimedia.org/wiki/File:Kuta_Bali_Indonesia_Pura-Luhur-Uluwatu-04.jpg)
+- Nusa Dua Bali.jpg — GdML — [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) — [原图](https://commons.wikimedia.org/wiki/File:Nusa_Dua_Bali.jpg)
+- Morning in Sanur Beach, Bali.jpg — Danangtrihartanto — [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) — [原图](https://commons.wikimedia.org/wiki/File:Morning_in_Sanur_Beach,_Bali.jpg)
+- The sunset in Tanah Lot Temple Bali.jpg — Pinterpandai — [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) — [原图](https://commons.wikimedia.org/wiki/File:The_sunset_in_Tanah_Lot_Temple_Bali.jpg)
