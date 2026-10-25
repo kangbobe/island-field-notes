@@ -1,15 +1,53 @@
-# 实景图片来源
+# 实景相册图片来源
 
-图片展示时可能缩放或裁切，各图仍适用原许可证。
+以下照片按各自许可证公开展示；文件已缩小/压缩，卡片显示时可能裁切。原照片及其衍生图片仍按原许可使用。
 
-- Phu quoc plage sao — ntt — [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) — [原图](https://commons.wikimedia.org/wiki/File:Phu_quoc_plage_sao.jpg)
+- Sao Beach · 椰树白沙 — ntt — [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) — [原图](https://commons.wikimedia.org/wiki/File:Phu_quoc_plage_sao.jpg)
 
-- Wild Komodo Dragon — David KINDE — [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) — [原图](https://commons.wikimedia.org/wiki/File:Wild_Komodo_Dragon.jpg)
+- 科莫多巨蜥 · 野外实拍 — David KINDE — [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) — [原图](https://commons.wikimedia.org/wiki/File:Wild_Komodo_Dragon.jpg)
 
-- View from cable car at Phu Quoc Island — Pauloleong2002 — [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) — [原图](https://commons.wikimedia.org/wiki/File:View_from_cable_car_at_Phu_Quoc_Island.jpg)
+- 香岛缆车 · 安泰海域俯瞰 — Pauloleong2002 — [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) — [原图](https://commons.wikimedia.org/wiki/File:View_from_cable_car_at_Phu_Quoc_Island.jpg)
 
-- Phu Quoc cable car - view to old town — FrogsLegs71 — [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) — [原图](https://commons.wikimedia.org/wiki/File:Phu_Quoc_cable_car_-_view_to_old_town.jpg)
+- 缆车沿途 · 安泰海岸与渔港 — FrogsLegs71 — [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) — [原图](https://commons.wikimedia.org/wiki/File:Phu_Quoc_cable_car_-_view_to_old_town.jpg)
 
-- Padar Island View From Top of the Hill — AuroZephyr — [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) — [原图](https://commons.wikimedia.org/wiki/File:Padar_Island_View_From_Top_of_the_Hill.jpg)
+- Padar · 三湾全景 — AuroZephyr — [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) — [原图](https://commons.wikimedia.org/wiki/File:Padar_Island_View_From_Top_of_the_Hill.jpg)
 
-- ID-Komodo-pink-beach — Balou46 — [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) — [原图](https://commons.wikimedia.org/wiki/File:ID-Komodo-pink-beach.jpg)
+- Komodo粉红沙滩 · 沙色与海水 — Balou46 — [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) — [原图](https://commons.wikimedia.org/wiki/File:ID-Komodo-pink-beach.jpg)
+
+- 接吻桥 · 白天海岸 — Kevin Rutherford from United States — [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0) — [原图](https://commons.wikimedia.org/wiki/File:Kiss_Bridge,_Phu_Quoc_(52680380987).jpg)
+
+- 接吻桥与日落小镇 · 暮色航拍 — Vivu Vietnam — [CC BY 4.0](https://creativecommons.org/licenses/by/4.0) — [原图](https://commons.wikimedia.org/wiki/File:Kiss_Bridge_Phu_Quoc_aerial_sunset_view.jpg)
+
+- 接吻桥 · 夕阳与剪影 — Vivu Vietnam — [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) — [原图](https://commons.wikimedia.org/wiki/File:Kiss_Bridge_sunset_silhouette_crowd_Phu_Quoc_Island_Vietnam.jpg)
+
+- 接吻桥 · 金色日落 — Vivu Vietnam — [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) — [原图](https://commons.wikimedia.org/wiki/File:Kiss_Bridge_at_sunset_Phu_Quoc_Island_Vietnam.jpg)
+
+- 富国岛 · 海岸与椰树 — Elmschrat — [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) — [原图](https://commons.wikimedia.org/wiki/File:2_Phu_Quoc_beach.jpg)
+
+- 富国岛 · 海滨慢时光 — Elmschrat — [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) — [原图](https://commons.wikimedia.org/wiki/File:Phu_Quoc_beach_01.jpg)
+
+- Padar · 山脊与蓝色海湾 — YUS JULIADI — [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) — [原图](https://commons.wikimedia.org/wiki/File:Pulau_Padar_1.jpg)
+
+- Padar · 另一侧海湾 — Jakub Hałun — [CC BY 4.0](https://creativecommons.org/licenses/by/4.0) — [原图](https://commons.wikimedia.org/wiki/File:Padar_Island,_Komodo_National_Park,_Indonesia,_20250822_0929_2659.jpg)
+
+- Padar粉红沙滩 · 航拍 — Devagonal — [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) — [原图](https://commons.wikimedia.org/wiki/File:Pink_Beach,_Padar_Island,_Komodo_National_Park.jpg)
+
+- Padar粉红沙滩 · 岸边实拍 — Jakub Hałun — [CC BY 4.0](https://creativecommons.org/licenses/by/4.0) — [原图](https://commons.wikimedia.org/wiki/File:Pink_Beach,_Padar_Island,_Komodo_National_Park,_Indonesia,_20250822_1108_2678.jpg)
+
+- 科莫多海域 · 蝠鲼与珊瑚 — Petter Lindgren — [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) — [原图](https://commons.wikimedia.org/wiki/File:Manta_ray.jpg)
+
+- 科莫多海域 · 蝠鲼水下实拍 — Danadi Sutjianto — [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) — [原图](https://commons.wikimedia.org/wiki/File:KomodoNationalPark_MantaRay.jpg)
+
+- 科莫多海域 · 蝠鲼游弋 — Jonathangarryh — [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) — [原图](https://commons.wikimedia.org/wiki/File:Manta_.jpg)
+
+- 富国岛长滩 · 橙红晚霞 — Alexey Komarov — [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) — [原图](https://commons.wikimedia.org/wiki/File:Sunset_on_the_Long_Beach_in_Phu_Quoc_Island,_Vietnam,_5_March_2019.jpg)
+
+- 拉布安巴焦 · 山丘晚霞 — OpangKanu — [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) — [原图](https://commons.wikimedia.org/wiki/File:Sunset_View_from_the_Labuan_Bajo_hill.jpg)
+
+- 科莫多国家公园 · 巨蜥近景 — Bahnfrend — [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) — [原图](https://commons.wikimedia.org/wiki/File:Komodo_Dragon,_Komodo,_2016_(01).jpg)
+
+- Sao Beach · 海岸视角 — Vnecofriendly — [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) — [原图](https://commons.wikimedia.org/wiki/File:Star_Beach_(Bãi_Sao).jpg)
+
+- 拉布安巴焦 · 港湾日落 — Jorge Láscar from Melbourne, Australia — [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) — [原图](https://commons.wikimedia.org/wiki/File:Sunset_in_Labuan_Bajo_(16932534550).jpg)
+
+- Sao Beach · 碧海白沙航拍 — [//commons.wikimedia.org/wiki/User:Trantuonglam Trantuonglam] — [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) — [原图](https://commons.wikimedia.org/wiki/File:Bai-sao-phu-quoc-tuonglamphotos.jpg)
