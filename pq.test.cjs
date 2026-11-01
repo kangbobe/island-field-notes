@@ -1,0 +1,15 @@
+/* Run: node pq.test.cjs */
+const assert=require('node:assert/strict'),fs=require('node:fs'),vm=require('node:vm');
+const PQ=vm.runInNewContext(fs.readFileSync('pq-data.js','utf8')+';PQ'),C=vm.runInNewContext(fs.readFileSync('pq-core.js','utf8')+';TripCore');
+const known={cards:PQ.cards.map(c=>c.id),places:PQ.places.map(p=>p.id)};
+let count=0;function test(name,fn){fn();console.log('✓ '+name);count++;}
+test('Three empty days',()=>{const s=C.empty();for(const d of C.days)assert.equal(s.days[d].length,0);});
+test('Cross-day move preserves metadata and avoids duplicates',()=>{const s=C.empty();C.move(s,'mango','3');Object.assign(s.days[3][0],{time:'16:30',status:'待询位',note:'雨天改室内'});C.move(s,'mango','5');assert.equal(s.days[3].length,0);assert.equal(s.days[5][0].time,'16:30');assert.equal(s.days[5][0].note,'雨天改室内');assert.equal(s.days[5][0].status,'待询位');});
+test('Same-day reorder and remove',()=>{const s=C.empty();['cable','town','ann'].forEach(id=>C.move(s,id,'3'));C.move(s,'ann','3',0);assert.equal(s.days[3][0].id,'ann');C.remove(s,'town');assert.equal(s.days[3].length,2);});
+test('Shared state sanitizes duplicates, unknown IDs and bad times',()=>{const s=C.clean({version:1,days:{3:[{id:'mango',time:'99:99',status:'fake'}],4:[{id:'mango'},{id:'fake'}],5:[]}},known);assert.equal(s.days[3][0].time,'');assert.equal(s.days[3][0].status,'想去');assert.equal(s.days[4].length,0);assert.equal(C.clean({version:1,days:null},known).days[3].length,0);});
+test('Custom activity survives sharing with known map location',()=>{const s=C.clean({version:1,custom:[{id:'custom-one',title:'按摩',place:'squid',duration:120}],days:{3:[{id:'custom-one',note:'下午'}],4:[],5:[]}},known);assert.equal(s.custom[0].place,'squid');assert.equal(s.days[3][0].note,'下午');});
+test('Tuesday and competing sunset bookings are flagged',()=>{assert(C.warnings([{id:'show'}],PQ.cards,'3').some(x=>x.includes('周二')));assert(C.warnings([{id:'mango'},{id:'camia'}],PQ.cards,'4').some(x=>x.includes('日落')));});
+test('Every card has a valid place and source links',()=>{for(const c of PQ.cards){assert(known.places.includes(c.place),c.id);for(const [,k] of c.links)assert((PQ.sources[k]?.[1]||k).startsWith('https://'));}assert.equal(new Set(known.cards).size,known.cards.length);});
+test('Distance and pair enumeration; island is not a road endpoint',()=>{const a=PQ.home,b=PQ.places[0];assert.equal(C.km(a,a),0);assert(Math.abs(C.km(a,b)-C.km(b,a))<1e-8);assert.equal(C.pairs([a,...PQ.places]).length,153);assert(PQ.places.find(p=>p.id==='hon').marine);});
+test('Complete page anchors, unique IDs and correct flight boundaries',()=>{const h=fs.readFileSync('index.html','utf8'),body=h.replace(/<script\b[^>]*>[\s\S]*?<\/script>/g,''),ids=[...body.matchAll(/\bid="([^"]+)"/g)].map(x=>x[1]);assert.equal(new Set(ids).size,ids.length);for(const m of body.matchAll(/href="#([^"]+)"/g))assert(ids.includes(m[1]),m[1]);assert(!/科莫多|巴厘岛/.test(h));assert(h.includes('15:00 抵达富国岛'));assert(h.includes('10:00 航班起飞'));for(const s of h.matchAll(/<script>([\s\S]*?)<\/script>/g))new vm.Script(s[1]);});
+console.log(count+' tests passed');
